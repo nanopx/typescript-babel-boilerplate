@@ -1,7 +1,10 @@
 {
 	"version": "0.1.0",
-	"command": "gulp",
+	"command": "npm",
 	"isShellCommand": true,
+  "args": [
+    "run"
+  ],
 	"tasks": [
 		{
 			"taskName": "watch",

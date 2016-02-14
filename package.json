@@ -10,6 +10,8 @@
     "gulp-typescript": "^2.11.0"
   },
   "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
