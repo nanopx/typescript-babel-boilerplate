@@ -1,0 +1,31 @@
+{
+  "name": "typescript-babel-boilerplate",
+  "version": "0.1.0",
+  "description": "Boilerplate for converting typescript(es6) to es5",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-typescript": "^2.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanopx/typescript-babel-boilerplate.git"
+  },
+  "keywords": [
+    "typescript",
+    "babel",
+    "boilerplate",
+    "vscode"
+  ],
+  "author": "nanopx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanopx/typescript-babel-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nanopx/typescript-babel-boilerplate#readme"
+}
